@@ -45,6 +45,8 @@ course lectures.  There is no need to look to outside sources of more material.
 In fact, a sophisticated outside technique can sometimes have side-effects that
 you aren't aware of that causes your function to fail the grader.
 """
+<br/>
+<br/>
 Ahmad Hassan<br/>
 Machine Learning Engineer<br/>
 Data Science Enthusiast
